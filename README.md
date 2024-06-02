@@ -20,7 +20,7 @@ This assignment not only tests our technical skills in Java programming and data
 11. **Version Control**: Applying Git and GitHub for version control and collaboration.
 
 ### Description for The Solution
-**Map Design:** We designed a 40x40 map with '#' characters as obstacles, restricting player movement. Players navigate the map using the W, A, S, and D keys (W=up, S=down, A=left, D=right).
+- **Map Design:** We designed a 40x40 map with '#' characters as obstacles, restricting player movement. Players navigate the map using the W, A, S, and D keys (W=up, S=down, A=left, D=right).
 
 **Archetype Creation:** We defined five archetypes (referred to as "majors") with initial attributes such as health points, attack, and defense. We stored archetype data in a file to enable easy modification without altering the code.
 
