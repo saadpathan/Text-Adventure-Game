@@ -22,21 +22,21 @@ This assignment not only tests our technical skills in Java programming and data
 ### Description for The Solution
 - **Map Design:** We designed a 40x40 map with '#' characters as obstacles, restricting player movement. Players navigate the map using the W, A, S, and D keys (W=up, S=down, A=left, D=right).
 
-**Archetype Creation:** We defined five archetypes (referred to as "majors") with initial attributes such as health points, attack, and defense. We stored archetype data in a file to enable easy modification without altering the code.
+- **Archetype Creation:** We defined five archetypes (referred to as "majors") with initial attributes such as health points, attack, and defense. We stored archetype data in a file to enable easy modification without altering the code.
 
-**Levelling-Up System:** Instead of traditional levels, characters gain "credits" to progress. This approach maintains the concept of progression while aligning with the game's theme.
+- **Levelling-Up System:** Instead of traditional levels, characters gain "credits" to progress. This approach maintains the concept of progression while aligning with the game's theme.
 
-**Monster Class Development:** We created a base monster class with properties like health points, attack, and defense. Specific monster types were derived from this base, each with unique characteristics. Monster locations are randomly generated on the map.
+- **Monster Class Development:** We created a base monster class with properties like health points, attack, and defense. Specific monster types were derived from this base, each with unique characteristics. Monster locations are randomly generated on the map.
 
-**Spell Crafting:** Three distinct spells were created for each archetype, unlocking at specific character levels with individual cooldown periods. Spell descriptions, level requirements, and cooldown times were documented in a file.
+- **Spell Crafting:** Three distinct spells were created for each archetype, unlocking at specific character levels with individual cooldown periods. Spell descriptions, level requirements, and cooldown times were documented in a file.
 
-**Battle System:** Players engage in round-based battles with various moves such as attacking, defending, healing, or escaping. Spells can also be used. Battles continue until a win, loss, or player exit, with descriptive feedback provided.
+- **Battle System:** Players engage in round-based battles with various moves such as attacking, defending, healing, or escaping. Spells can also be used. Battles continue until a win, loss, or player exit, with descriptive feedback provided.
 
-**Save Game Feature:** A save game feature allows players to record their progress and resume later. Automatic saving functionality was implemented using a database and File I/O.
+- **Save Game Feature:** A save game feature allows players to record their progress and resume later. Automatic saving functionality was implemented using a database and File I/O.
 
-**Input Handling:** The program effectively handles unexpected or incorrect inputs, ensuring a smooth user experience. Valid choices are highlighted using colorful text in the User Interface.
+- **Input Handling:** The program effectively handles unexpected or incorrect inputs, ensuring a smooth user experience. Valid choices are highlighted using colorful text in the User Interface.
 
-**Visual Enhancements:** ASCII art and colored text were used to enhance the game's visual appeal. Color-coding for specific keywords and incorporating dynamic visual cues improved clarity and player engagement.
+- **Visual Enhancements:** ASCII art and colored text were used to enhance the game's visual appeal. Color-coding for specific keywords and incorporating dynamic visual cues improved clarity and player engagement.
 
 Throughout development, we applied Object-Oriented principles to maintain a robust and maintainable codebase.
 
