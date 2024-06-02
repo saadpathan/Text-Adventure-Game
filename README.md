@@ -1,4 +1,4 @@
-## Text Adventure Game
+# Text Adventure Game
 
 ### Project Description
 The assigned project for the WIX1002 - Fundamentals of Programming (FOP) course involves developing an RPG-based text adventure game. The game can be implemented using either a Command Line Interface (CLI) or a Graphical User Interface (GUI). This project requires a blend of technical skills and creativity, demanding both programming knowledge and imaginative design. The game involves navigating a virtual environment, interacting with various elements, and progressing through different challenges. To successfully complete this project, we must demonstrate proficiency in Object-Oriented Programming, using Java as the primary language.
